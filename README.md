@@ -1,0 +1,1 @@
+# Prediction-of-the-Severity-of-a-Car-Accident---Final-Project-Bsc.-Data-Science
