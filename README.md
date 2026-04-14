@@ -7,6 +7,7 @@ The core of the prototype is built on a robust pipeline that processes diverse v
 From a technical perspective, the project is implemented entirely in Python, utilizing industry-standard libraries for data manipulation and predictive modeling. The architecture is designed to be modular, allowing for easy integration of new data sources or more complex neural networks in the future. Beyond the code, the project emphasizes the importance of interpretability, providing clear visualizations that illustrate which factors. Such as weather conditions or lighting, have the most significant impact on road safety outcomes.
 
 ---Project Progress & Future Work---
+
 Regarding our current progress, we have successfully completed the data acquisition phase, conducted a thorough cleaning of the datasets, performed a comprehensive exploratory data analysis to identify key risk factors, and established the initial feature engineering pipeline.
 
 Looking ahead, the remaining steps for the project include selecting and training advanced machine learning algorithms like XGBoost and Random Forest, optimizing the models to handle class imbalances, developing an interactive visualization dashboard to present our findings, and performing a final validation against unseen data to ensure the reliability of our severity predictions.
