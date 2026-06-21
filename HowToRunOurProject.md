@@ -7,10 +7,18 @@ This repository contains the machine learning pipeline developed to predict road
 
 ## Prerequisites & Dataset Setup
 
-Before running the model, please ensure the required dataset files are correctly placed on your local system's Desktop. The pipeline expects specific file naming conventions to correctly locate and ingest the data.
+Due to GitHub's file size limitations (the primary datasets exceed hosting constraints), the full data assets are stored securely on Google Drive. 
 
-1. **Dataset 1 (Primary):** Download and place the file named exactly `Collision_Dataset_For_Model_With_Extra_Fatals` on your **Desktop**.
-2. **Dataset 2 (Target Adjusted):** Download and place the file named exactly `Collision_Dataset_For_Model_With_Extra_Fatals_No_num_of_casualties` on your **Desktop**.
+Please download the datasets from the official link below and place them directly on your **Desktop** before running the model pipeline:
+
+📦 **[Download Project Datasets from Google Drive](https://drive.google.com/drive/folders/1SwST-Vn4-SSpLKjI7_aTVT2_B35ODyI2?usp=sharing)**
+
+### Required Files Checklist:
+1. `Collision_Dataset_For_Model_With_Extra_Fatals` — (Place on Desktop)
+2. `Collision_Dataset_For_Model_With_Extra_Fatals_No_num_of_casualties` — (Place on Desktop)
+
+*The execution pipeline expects these exact file names and locations to properly execute the data ingestion phase.*
+
 
 ---
 
