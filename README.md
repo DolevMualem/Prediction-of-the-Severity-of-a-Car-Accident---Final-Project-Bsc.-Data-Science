@@ -1,5 +1,5 @@
 ## Project Overview
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediction-of-the-severity-of-a-car-accident-dm.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediction-of-the-severity-of-a-car-accident-dm.streamlit.app/) <br>
 The **Road Accident Severity Prediction Engine** is an advanced machine learning project developed as a final academic capstone. The system leverages optimized gradient boosting to analyze historical traffic logs, evaluate environmental and structural risk factors, and accurately predict whether a collision will result in a **Slight** or **Major (Serious/Fatal)** outcome. 
 
 By utilizing state-of-the-art interpretability tools and integrating real-time weather data, this framework bridges the gap between predictive modeling and actionable public safety insights, providing a foundation for data-driven traffic management and infrastructure policies.
